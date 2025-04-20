@@ -7,7 +7,7 @@ public class Main {
                         "no end date", 1001, "07-07-2020",
                         9000000, false);
 
-        sEmp.getAge();
+        sEmp.getAge(); // added a comment
         sEmp.collectPay();
         sEmp.retire();
     }
